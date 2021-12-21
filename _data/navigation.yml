@@ -2,5 +2,9 @@
   link: /
 - name: About
   link: /about/
-- name: Portfolio
-  link: /portfolio/
+- name: Research
+  link: /research/
+- name: Reading
+  link: /reading/
+- name: Coffee
+  link: /coffeeopinions/
