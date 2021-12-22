@@ -27,7 +27,7 @@ proven the conjecture for $$L^p$$ norms, $$p > 1$$, but the machinery used in th
 the $$p=1$$ case. Alongside the conjecture, Bressan also constructed an example mixer; we will investigate some
 numerical approaches to this problem (e.g., machine learning) to develop our intuition as to whether or not his
 construction is optimal. I'm working on this project with Professor Tarek M. Elgindi. Fall 2021 independent study report
-available here.
+available [here]({{ site.url }}/assets/Mixing_CraigChen.pdf).
 
 ### Finished Projects:
 
@@ -37,7 +37,7 @@ radius of a circle centered at the origin and $$\theta \in [0,1)$$. The best bou
 $$\theta$$ approaches $$1/2$$. In this project, we produced a fully rigorous proof of the current bound as well as some
 related lemmas and investigated potential methods to improve the bound. At the moment, it seems like an improvement will
 require an entirely different approach. Mentored by Professor Lillian B. Pierce. Spring 2021 independent study report
-available here.
+available [here]({{ site.url }}/assets/Jarnik_CraigChen.pdf).
 
 **Policy gradient methods in the linear-quadratic regulator with nonlinear controls:**
 We aim to extend convergence results of existing literature to a wider policy class. As of now, there are still very few
