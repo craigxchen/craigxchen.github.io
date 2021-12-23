@@ -19,10 +19,10 @@ blockquote {
   @extend .blockquote;
 }
 
-img {
-  @extend .img-fluid;
-  margin-bottom: 1rem;
-}
+// img {
+//   @extend .img-fluid;
+//   margin-bottom: 1rem;
+// }
 
 .wrapper {
   max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
