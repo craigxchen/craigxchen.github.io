@@ -1,7 +1,7 @@
 - name: Home
   link: /
-- name: About
-  link: /about/
+- name: Blog
+  link: /blog/
 - name: Research
   link: /research/
 - name: Reading
