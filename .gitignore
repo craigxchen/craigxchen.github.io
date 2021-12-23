@@ -5,3 +5,6 @@
 .sass-cache
 _site
 Gemfile.lock
+
+drafts
+_posts
