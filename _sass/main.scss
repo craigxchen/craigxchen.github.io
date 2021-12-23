@@ -24,6 +24,17 @@ blockquote {
 //   margin-bottom: 1rem;
 // }
 
+@media (prefers-color-scheme: dark) {
+  a {
+    color: inherit;
+    text-decoration: underline
+  }
+
+  a:hover {
+    color: #779cc3
+  }
+}
+
 .wrapper {
   max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
   max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
@@ -83,6 +94,7 @@ blockquote {
 
 .archive-title {
   color: #212529;
+  text-decoration: none;
 }
 
 .highlight {
@@ -116,6 +128,7 @@ pre.highlight {
 
   .archive-title {
     color: #e1e1e1;
+    text-decoration: none;
   }
 
   .light-avatar {
