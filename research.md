@@ -24,7 +24,7 @@ to be learned will be rather sparse and this advantage will go to waste. I am wo
 Consider the unit square in $$\mathbb{R}^2$$ with periodic boundary conditions (i.e., the torus) divided down the middle
 $$x=1/2$$ line into sets $$R$$, $$B$$ (imagine half as painted red and the other half blue). We say that a flow mixes
 $$R$$, $$B$$ up to scale $$\epsilon$$ with mixing factor $$\kappa \in (0,1/2)$$ if every $$\epsilon$$-ball has at
-least $$k$$ of its points from $$R$$ and $$k$$ from $$B$$ (where this is defined in terms of the Lebesgue measure). If
+least $$\kappa$$ of its points from $$R$$ and $$\kappa$$ from $$B$$ (where this is defined in terms of the Lebesgue measure). If
 we mix the initial condition to scale $$\epsilon$$ with some time-dependent divergence-free vector field $$f$$, how
 much "work" is necessary? Here, "work" is measured as
 
