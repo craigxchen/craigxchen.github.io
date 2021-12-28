@@ -1,0 +1,13 @@
+.def {
+    display: block;
+    font-style: italic;
+    margin: 12px 0;
+    }
+.def:before {
+    content: "Definition: ";
+    font-weight: bold;
+    font-style: normal;
+}
+.def[text]:before {
+    content: "Definition (" attr(text) "): ";
+}
