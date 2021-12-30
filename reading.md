@@ -8,9 +8,9 @@ permalink: /reading/
 Inadequate Equilibria - Eliezer Yudkowsky
 
 ### Prior reads: (commentary coming soon!) 
-###### \*=recommended
+###### italicized items are recommended
 
-- \*The Man Without Talent - Yoshiharu Tsuge 
+- *The Man Without Talent - Yoshiharu Tsuge*
 
 - Give Work - Leila Janah
 
@@ -20,7 +20,7 @@ Inadequate Equilibria - Eliezer Yudkowsky
 
 - On Intelligence - Jeff Hawkins and Sandra Blakeslee
 
-- \*Infinite Jest - David Foster Wallace
+- *Infinite Jest - David Foster Wallace*
 
 - The Annotated Turing - Charles Petzold
 
@@ -28,7 +28,7 @@ Inadequate Equilibria - Eliezer Yudkowsky
 
 - A Mathematician's Lament - Paul Lockhart
 
-- \*The Art of Doing Science and Engineering - Richard Hamming
+- *The Art of Doing Science and Engineering - Richard Hamming*
 
 - Birth of a Theorem - Cedric Villani
 
@@ -42,12 +42,12 @@ Inadequate Equilibria - Eliezer Yudkowsky
 
 - A Brief History of Time - Stephen Hawking
 
-- \*Flash Boys - Michael Lewis
+- *Flash Boys - Michael Lewis*
 
 - Barbarians at the Gate - Bryan Burrough
 
 - Educated - Tara Westover
 
-- \*Godel Escher Bach - Douglas Hofstadter
+- *Godel Escher Bach - Douglas Hofstadter*
 
 - The Signal and the Noise - Nate Silver
