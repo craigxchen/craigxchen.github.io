@@ -2,7 +2,9 @@
 layout: page
 ---
 
-I am a 4th-year undergraduate student at Duke University studying for a B.S. in Mathematics. I'm from San Diego, CA. 
+## Welcome to my homepage! 
+
+I am Craig Chen, a 4th-year undergraduate student at Duke University studying for a B.S. in Mathematics. I'm from San Diego, CA. 
 
 My research interests are predominantly topics in applied mathematics, although I am trying to expose myself to as many different areas of mathematics as possible. I am currently working on a project in **partial differential equations (mixing)** and previously worked on projects in **theoretical machine learning** and **analytic number theory**.
 
