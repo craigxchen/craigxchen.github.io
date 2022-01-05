@@ -8,8 +8,8 @@ permalink: /reading/
 Inadequate Equilibria - Eliezer Yudkowsky
 
 ### Prior reads: (commentary coming soon!) 
-###### italicized items are recommended
-
+**Italicized items are recommended**
+<BR>
 - *The Man Without Talent - Yoshiharu Tsuge*
 
 - Give Work - Leila Janah
