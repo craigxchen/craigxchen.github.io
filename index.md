@@ -1,8 +1,7 @@
 ---
 layout: page
+title: Welcome to my homepage!
 ---
-
-## Welcome to my homepage! 
 
 I am Craig Chen, a 4th-year undergraduate student at Duke University studying for a B.S. in Mathematics. I'm from San Diego, CA. 
 

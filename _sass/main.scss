@@ -24,6 +24,11 @@ blockquote {
 //   margin-bottom: 1rem;
 // }
 
+a {
+  color: inherit;
+  text-decoration: underline
+}
+
 @media (prefers-color-scheme: dark) {
   a {
     color: inherit;
