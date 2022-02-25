@@ -1,19 +1,12 @@
 ---
 layout: post
+title: change of plans
 ---
 
-I've spent the recent few months thinking about what to do after graduation, and although I've finally decided on a course of action, there are still a lot of unresolved thoughts floating around. 
+In previous posts, I have focussed on writing about my experience thinking about working in finance versus getting a Ph.D. in math. As of today, it seems like the math Ph.D. door is not yet ready to open. 
 
+Was I just unlucky? After all, I only applied to 8 schools. My mentors told me I had a very strong application too - I don't think I was naive to trust them. I mean, I'm pretty confident that my application is actually quite good. Why didn't I get in anywhere though? I informed my mentors and friends about these results, and so far every response has been genuine surprise - now, I'm not the best at reading emotions, but I think surprise is quite obvious when it's real. 
 
+Anyway, I was planning on working for a year or two first with an admissions deferral, so it's not terrible, but I really am struggling to shake the negative feelings that come with rejection. I've received a lot of rejections before, but this set feels much worse. Mathematics and research, I think, has been my priority for the past 3.5 years. I don't think I have put more effort into anything else. I wonder, did I choose to learn all of this math because I wanted to get into Ph.D. programs, or because I wanted to learn math? Would I feel like I wasted my time if I never end up using these mathematical tools again? It's quite scary for me, not being able to answer these questions. No big deal, though. The fact that I am thinking about this reassures me. 
 
-
-[comment]: # "At its core, I've been trying to answer the question of what makes me happy, which, in its current phrasing, is not well-defined. Firstly, this question may not have a unique answer since there are different types of happiness and the dictionary definition of happiness is not very tractable, so let's define happiness ourselves. I want to define it in a way that allows me to use the term to "classify" my actions, and so, with many implict assumptions we have:"
-
-[comment]: # "<div class="def" text='Simple Happiness'>Something makes me happy if it is a reason for me to continue living.</div>"
-
-[comment]: # "There is a lot to unpack in this definition and it's frankly still not very good, but it's a starting point. Framed this way, it becomes difficult to distinguish short-term gain from long-term gain; the achievement (or the desire to) of a goal in the future is something I believe should be considered a source of happiness, but there may certainly be days where I don't care about the goal, so we need to be more careful in addressing delayed gratification." 
-
-[comment]: # "Reframing happiness this way, it becomes a lot easier to which things I do because they make me happy and which things I do out of some desire to fit in. Combined with some inspiration from other blogs (go check out [Radimentary](https://radimentary.wordpress.com/)), I managed to pin down a few things that I kept me going."
-
-
-[comment]: # "important assumption which is that of no obligations to others. For example, "because my parents brought me into this world and provided for me" is not a factor in my deciding whether to live or not. Don't get me wrong, though, I am incredibly grateful for my parents' love and I make sure they are aware of that. There's a lot of personal background here which I'll cover in future posts."
+9 weeks ago, one of my good friends asked me what I was excited about, and I couldn't provide an adequate answer. I've been thinking about it daily since then.
