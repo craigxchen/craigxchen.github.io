@@ -5,11 +5,13 @@ permalink: /reading/
 ---
 
 ### Currently reading:
-Inadequate Equilibria - Eliezer Yudkowsky
+Neuromancer - William Gibson
 
 ### Prior reads: (commentary coming soon!) 
 **Italicized items are recommended**
 <BR>
+- Inadequate Equilibria - Eliezer Yudkowsky
+
 - *The Man Without Talent - Yoshiharu Tsuge*
 
 - Give Work - Leila Janah
