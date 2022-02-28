@@ -5,11 +5,13 @@ permalink: /reading/
 ---
 
 ### Currently reading:
-Neuromancer - William Gibson
+Terminal Boredom by Izumi Suzuki
 
 ### Prior reads: (commentary coming soon!) 
 **Italicized items are recommended**
 <BR>
+- *Neuromancer - William Gibson*
+
 - Inadequate Equilibria - Eliezer Yudkowsky
 
 - *The Man Without Talent - Yoshiharu Tsuge*
