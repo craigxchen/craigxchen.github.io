@@ -5,11 +5,13 @@ permalink: /reading/
 ---
 
 ### Currently reading:
-Terminal Boredom by Izumi Suzuki
+Klara and the Sun by Kazuo Ishiguro
 
 ### Prior reads: (commentary coming soon!) 
 **Italicized items are recommended**
 <BR>
+- Terminal Boredom - Izumi Suzuki
+
 - *Neuromancer - William Gibson*
 
 - Inadequate Equilibria - Eliezer Yudkowsky
