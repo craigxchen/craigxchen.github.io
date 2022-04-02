@@ -5,11 +5,13 @@ permalink: /reading/
 ---
 
 ### Currently reading:
-Klara and the Sun by Kazuo Ishiguro
+Man's Search for Meaning by Viktor Frankl
 
 ### Prior reads: (commentary coming soon!) 
 **Italicized items are recommended**
 <BR>
+- *Klara and the Sun - Kazuo Ishiguro*
+
 - Terminal Boredom - Izumi Suzuki
 
 - *Neuromancer - William Gibson*
