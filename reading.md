@@ -5,11 +5,15 @@ permalink: /reading/
 ---
 
 ### Currently reading:
-Man's Search for Meaning by Viktor Frankl
+The Houseguest - Amparo Davila
 
 ### Prior reads: (commentary coming soon!) 
 **Italicized items are recommended**
 <BR>
+- Literally Show Me a Healthy Person - Darcie Wilder
+
+- Man's Search for Meaning = Viktor Frankl
+
 - *Klara and the Sun - Kazuo Ishiguro*
 
 - Terminal Boredom - Izumi Suzuki
