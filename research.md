@@ -6,20 +6,6 @@ permalink: /research/
 
 ### Current Projects:
 
-**Learning linear dynamical systems with memory:**
-Consider a dynamical system with hidden state $$h_t$$, observable $$y_t$$, and control input $$u_t$$ following the dynamics
-
-$$\begin{align*}
-    h_{t+1} &= Ah_t + Bu_t \\
-    y_t &= Ch_t + Du_t.
-\end{align*}$$
-
-It is known that gradient descent can learn this system (*i.e.,* learn the parameters $$A,B,C,D$$) with polynomially 
-(in the dimension) many samples. What happens if we allow for a higher-order system which depends on $$h_t$$ through 
-$$h_{t-m}$$? It is possible to linearize this system byconcatenating all of the state vectors, but then the matrices 
-to be learned will be rather sparse and this advantage will go to waste. I am working with Professor Andrea Agazzi 
-(and some advice from Professor Jianfeng Lu) to try to prove a better sample-complexity bound for the system with memory.
-
 **Bressan's conjecture on mixing flows:**
 Consider the unit square in $$\mathbb{R}^2$$ with periodic boundary conditions (i.e., the torus) divided down the middle
 $$x=1/2$$ line into sets $$R$$, $$B$$ (imagine half as painted red and the other half blue). We say that a flow mixes
@@ -39,7 +25,21 @@ numerical approaches to this problem (e.g., machine learning) to develop our int
 construction is optimal. I'm working on this project with Professor Tarek M. Elgindi. Fall 2021 independent study report
 available [here]({{ site.url }}/assets/Mixing_CraigChen.pdf).
 
-### Finished Projects:
+### Previous Projects:
+
+**Learning linear dynamical systems with memory:**
+Consider a dynamical system with hidden state $$h_t$$, observable $$y_t$$, and control input $$u_t$$ following the dynamics
+
+$$\begin{align*}
+    h_{t+1} &= Ah_t + Bu_t \\
+    y_t &= Ch_t + Du_t.
+\end{align*}$$
+
+It is known that gradient descent can learn this system (*i.e.,* learn the parameters $$A,B,C,D$$) with polynomially 
+(in the dimension) many samples. What happens if we allow for a higher-order system which depends on $$h_t$$ through 
+$$h_{t-m}$$? It is possible to linearize this system byconcatenating all of the state vectors, but then the matrices 
+to be learned will be rather sparse and this advantage will go to waste. I am working with Professor Andrea Agazzi 
+(and some advice from Professor Jianfeng Lu) to try to prove a better sample-complexity bound for the system with memory.
 
 **Close lattice points on circles:**
 We are interested in the question of how many lattice points can lie on an arc of length $$R^\theta$$ where $$R$$ is the

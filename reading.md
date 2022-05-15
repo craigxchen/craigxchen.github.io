@@ -5,11 +5,13 @@ permalink: /reading/
 ---
 
 ### Currently reading:
-The Houseguest - Amparo Davila
+Quotation Marks by Marjorie Garber
 
 ### Prior reads: (commentary coming soon!) 
 **Italicized items are recommended**
 <BR>
+- The Houseguest - Amparo Davila
+
 - Literally Show Me a Healthy Person - Darcie Wilder
 
 - Man's Search for Meaning = Viktor Frankl
