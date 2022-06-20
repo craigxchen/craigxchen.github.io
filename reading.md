@@ -5,11 +5,13 @@ permalink: /reading/
 ---
 
 ### Currently reading:
-Quotation Marks by Marjorie Garber
+Reality+ by David Chalmers
 
 ### Prior reads: (commentary coming soon!) 
 **Italicized items are recommended**
 <BR>
+- Quotation Marks - Marjorie Garber
+
 - The Houseguest - Amparo Davila
 
 - Literally Show Me a Healthy Person - Darcie Wilder
