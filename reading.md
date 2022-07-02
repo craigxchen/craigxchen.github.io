@@ -5,7 +5,7 @@ permalink: /reading/
 ---
 
 ### Currently reading:
-Reality+ by David Chalmers
+Evening Proposal by Pyun Hye Young
 
 ### Prior reads: (commentary coming soon!) 
 **Italicized items are recommended**
