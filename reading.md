@@ -5,11 +5,13 @@ permalink: /reading/
 ---
 
 ### Currently reading:
-Evening Proposal by Pyun Hye Young
+Roadside Picnic by Arkady and Boris Strugatsky
 
 ### Prior reads: (commentary coming soon!) 
 **Italicized items are recommended**
 <BR>
+- Evening Proposal - Pyun Hye Young
+
 - Quotation Marks - Marjorie Garber
 
 - The Houseguest - Amparo Davila
