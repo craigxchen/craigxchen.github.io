@@ -5,11 +5,13 @@ permalink: /reading/
 ---
 
 ### Currently reading:
-Roadside Picnic by Arkady and Boris Strugatsky
+Atlas Shrugged by Ayn Rand
 
 ### Prior reads: (commentary coming soon!) 
 **Italicized items are recommended**
 <BR>
+- Roadside Picnic - Arkady and Boris Strugatsky
+
 - Evening Proposal - Pyun Hye Young
 
 - Quotation Marks - Marjorie Garber
