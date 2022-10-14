@@ -5,12 +5,14 @@ permalink: /reading/
 ---
 
 ### Currently reading:
-Atlas Shrugged by Ayn Rand
+The World According to Garp by John Irving
 
 ### Prior reads: (commentary coming soon!) 
 **Italicized items are recommended**
 <BR>
-- Roadside Picnic - Arkady and Boris Strugatsky
+- Atlas Shrugged - Ayn Rand
+
+- *Roadside Picnic - Arkady and Boris Strugatsky*
 
 - Evening Proposal - Pyun Hye Young
 
