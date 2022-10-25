@@ -5,11 +5,13 @@ permalink: /reading/
 ---
 
 ### Currently reading:
-The World According to Garp by John Irving
+All the Lovers in the Night - Meiko Kawakami
 
 ### Prior reads: (commentary coming soon!) 
 **Italicized items are recommended**
 <BR>
+- *The World According to Garp - John Irving*
+
 - Atlas Shrugged - Ayn Rand
 
 - *Roadside Picnic - Arkady and Boris Strugatsky*
@@ -22,7 +24,7 @@ The World According to Garp by John Irving
 
 - Literally Show Me a Healthy Person - Darcie Wilder
 
-- Man's Search for Meaning = Viktor Frankl
+- Man's Search for Meaning - Viktor Frankl
 
 - *Klara and the Sun - Kazuo Ishiguro*
 

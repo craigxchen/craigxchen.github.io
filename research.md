@@ -6,6 +6,10 @@ permalink: /research/
 
 ### Current Projects:
 
+Nothing!	
+
+### Previous Projects:
+
 **Bressan's conjecture on mixing flows:**
 Consider the unit square in $$\mathbb{R}^2$$ with periodic boundary conditions (i.e., the torus) divided down the middle
 $$x=1/2$$ line into sets $$R$$, $$B$$ (imagine half as painted red and the other half blue). We say that a flow mixes
@@ -24,8 +28,6 @@ the $$p=1$$ case. Alongside the conjecture, Bressan also constructed an example 
 numerical approaches to this problem (e.g., machine learning) to develop our intuition as to whether or not his
 construction is optimal. I'm working on this project with Professor Tarek M. Elgindi. Fall 2021 independent study report
 available [here]({{ site.url }}/assets/Mixing_CraigChen.pdf).
-
-### Previous Projects:
 
 **Learning linear dynamical systems with memory:**
 Consider a dynamical system with hidden state $$h_t$$, observable $$y_t$$, and control input $$u_t$$ following the dynamics

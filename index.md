@@ -5,7 +5,7 @@ title: Welcome to my homepage!
 
 I am Craig Chen, a recent graduate of Duke University with a B.S. in Mathematics. I'm from San Diego, CA. 
 
-While at Duke, I have worked on research projects in the fields of **partial differential equations (mixing)**, **theoretical machine learning**, and **analytic number theory**. In the coming fall, I will start as a Quantitative Trader at SIG (Susquehanna) in New York.
+While at Duke, I have worked on research projects in the fields of **partial differential equations (mixing)**, **theoretical machine learning**, and **analytic number theory**. I am now working as a Quantitative Trader at SIG (Susquehanna) in New York.
 
 <!--- two columns with headshot
 <div class="row">

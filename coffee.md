@@ -6,7 +6,7 @@ permalink: /coffeeopinions/
 
 ### Currently brewing: 
 
-Wush Wush - Elixr Coffee Roasters
+Random coffees from Black & White Coffee Roasters; everything they have is good.
 
 ### What is specialty coffee?
 
