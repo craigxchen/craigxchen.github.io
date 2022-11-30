@@ -5,11 +5,13 @@ permalink: /reading/
 ---
 
 ### Currently reading:
-All the Lovers in the Night - Meiko Kawakami
+The Defining Decade - Meg Jay
 
 ### Prior reads: (commentary coming soon!) 
 **Italicized items are recommended**
 <BR>
+- *All the Lovers in the Night - Meiko Kawakami*
+
 - *The World According to Garp - John Irving*
 
 - Atlas Shrugged - Ayn Rand
