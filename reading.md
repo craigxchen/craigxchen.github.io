@@ -5,11 +5,13 @@ permalink: /reading/
 ---
 
 ### Currently reading:
-The Defining Decade - Meg Jay
+Absolutely on Music - Haruki Murakami
 
 ### Prior reads: (commentary coming soon!) 
 **Italicized items are recommended**
 <BR>
+- The Defining Decade - Meg Jay
+
 - *All the Lovers in the Night - Meiko Kawakami*
 
 - *The World According to Garp - John Irving*
