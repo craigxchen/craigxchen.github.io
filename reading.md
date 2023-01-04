@@ -5,11 +5,13 @@ permalink: /reading/
 ---
 
 ### Currently reading:
-Absolutely on Music - Haruki Murakami
+Tomorrow, and Tomorrow, and Tomorrow - Gabrielle Zevin
 
 ### Prior reads: (commentary coming soon!) 
 **Italicized items are recommended**
 <BR>
+- Absolutely on Music - Haruki Murakami
+
 - The Defining Decade - Meg Jay
 
 - *All the Lovers in the Night - Meiko Kawakami*

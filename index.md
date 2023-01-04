@@ -7,6 +7,8 @@ I am Craig Chen, a recent graduate of Duke University with a B.S. in Mathematics
 
 While at Duke, I have worked on research projects in the fields of **partial differential equations (mixing)**, **theoretical machine learning**, and **analytic number theory**. I am now working as a Quantitative Trader at SIG (Susquehanna) in New York.
 
+In my free time, I've re-started taking classical piano very seriously. I'm also getting into game dev. Feel free to reach out if you want to talk about anything. 
+
 <!--- two columns with headshot
 <div class="row">
   <div class="col-md-4" markdown="1">
