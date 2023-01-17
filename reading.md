@@ -5,11 +5,13 @@ permalink: /reading/
 ---
 
 ### Currently reading:
-Tomorrow, and Tomorrow, and Tomorrow - Gabrielle Zevin
+The Fantasy Bond - Robert Firestone
 
 ### Prior reads: (commentary coming soon!) 
 **Italicized items are recommended**
 <BR>
+- *Tomorrow, and Tomorrow, and Tomorrow - Gabrielle Zevin*
+
 - Absolutely on Music - Haruki Murakami
 
 - The Defining Decade - Meg Jay
