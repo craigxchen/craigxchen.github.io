@@ -4,12 +4,18 @@ title: Reading
 permalink: /reading/
 ---
 
+A list of books I've read, from 2018 onwards.
+
 ### Currently reading:
-The Fantasy Bond - Robert Firestone
+Me Talk Pretty One Day - David Sedaris
 
 ### Prior reads: (commentary coming soon!) 
 **Italicized items are recommended**
 <BR>
+- *Stoner - John Williams*
+
+- The Fantasy Bond - Robert Firestone 
+
 - *Tomorrow, and Tomorrow, and Tomorrow - Gabrielle Zevin*
 
 - Absolutely on Music - Haruki Murakami
