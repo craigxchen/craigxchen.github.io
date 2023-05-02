@@ -3,11 +3,9 @@ layout: page
 title: Welcome to my homepage!
 ---
 
-I am Craig Chen, a recent graduate of Duke University with a B.S. in Mathematics. I'm from San Diego, CA. 
+I first made this website because I needed a homepage to submit a research paper to journals, but now I use this as a place to store thoughts on particularly useful experiences I've had.
 
-While at Duke, I have worked on research projects in the fields of **partial differential equations (mixing)**, **theoretical machine learning**, and **analytic number theory**. I am now working as a Quantitative Trader at SIG (Susquehanna) in New York.
-
-In my free time, I've re-started taking classical piano very seriously. I'm also getting into game dev. Feel free to reach out if you want to talk about anything. 
+My background is heavily weighted towards research, previously in molecular biology and recently in mathematics. However, now I am working as a trader at SIG. The second largest weight comes from a childhood of gaming, and the rest comes from music, performing arts, things like that. In my free time: I've re-started taking classical piano very seriously, I'm getting into game dev, I started doing yoga. Please reach out if you want to talk about anything!
 
 <!--- two columns with headshot
 <div class="row">
