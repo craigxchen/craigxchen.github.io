@@ -7,11 +7,15 @@ permalink: /reading/
 A list of books I've read, from 2018 onwards.
 
 ### Currently reading:
-Me Talk Pretty One Day - David Sedaris
+The Master and Margarita - Mikhail Bulgakov
 
 ### Prior reads: (commentary coming soon!) 
 **Italicized items are recommended**
 <BR>
+- The Stranger - Albert Camus
+
+- Me Talk Pretty One Day - David Sedaris
+
 - *Stoner - John Williams*
 
 - The Fantasy Bond - Robert Firestone 
