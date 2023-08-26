@@ -7,11 +7,13 @@ permalink: /reading/
 A list of books I've read, from 2018 onwards.
 
 ### Currently reading:
-The Master and Margarita - Mikhail Bulgakov
+Notes from Undergrand - Fyodor Dostoevsky
 
 ### Prior reads: (commentary coming soon!) 
 **Italicized items are recommended**
 <BR>
+-*The Master and Margarita - Mikhail Bulgakov*
+
 - The Stranger - Albert Camus
 
 - Me Talk Pretty One Day - David Sedaris

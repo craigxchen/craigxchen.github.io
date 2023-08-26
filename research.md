@@ -6,7 +6,7 @@ permalink: /research/
 
 ### Current Projects:
 
-Nothing!	
+Starting to read about a friend's work on Branching Brownian Motion. Planning to animate some of the objects of study using Manim.
 
 ### Previous Projects:
 
