@@ -7,11 +7,13 @@ permalink: /reading/
 A list of books I've read, from 2018 onwards.
 
 ### Currently reading:
-Notes from Undergrand - Fyodor Dostoevsky
+Plainwater - Anne Carson
 
 ### Prior reads: (commentary coming soon!) 
 **Italicized items are recommended**
 <BR>
+- Notes from Underground - Fyodor Dostoevsky
+
 -*The Master and Margarita - Mikhail Bulgakov*
 
 - The Stranger - Albert Camus

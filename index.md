@@ -3,9 +3,11 @@ layout: page
 title: Welcome to my homepage!
 ---
 
-I first made this website because I needed a homepage to submit a research paper to journals, but now I use this as a place to store thoughts on particularly useful experiences I've had.
+I first made this website because I needed a homepage to submit a research paper to journals, but now I use this as a place to store thoughts.
 
-My background is heavily weighted towards research, previously in molecular biology and recently in mathematics. However, now I am working as a trader at SIG. The second largest weight comes from a childhood of gaming, and the rest comes from music, performing arts, things like that. In my free time: I've re-started taking classical piano very seriously, I'm getting into game dev, I started doing yoga. Please reach out if you want to talk about anything!
+My background consists of a lot of academic research, previously in molecular biology and recently in mathematics. I'm also influenced by a childhood of gaming and dreams of being a musician. My newest fixation is woodworking and before that came specialty coffee (which stuck around). 
+
+Please reach out if you want to talk about anything!
 
 <!--- two columns with headshot
 <div class="row">
