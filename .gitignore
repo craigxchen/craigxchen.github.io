@@ -7,3 +7,4 @@ _site
 Gemfile.lock
 
 _drafts
+.DS_Store
