@@ -7,14 +7,18 @@ permalink: /reading/
 A list of books I've read, from 2018 onwards.
 
 ### Currently reading:
-Plainwater - Anne Carson
+Chess Story - Stefan Zweig
 
-### Prior reads: (commentary coming soon!) 
+### Prior reads: (commentary coming soon!)
 **Italicized items are recommended**
 <BR>
+- The Road - Cormac McCarthy
+
+- Plainwater - Anne Carson
+
 - Notes from Underground - Fyodor Dostoevsky
 
--*The Master and Margarita - Mikhail Bulgakov*
+- *The Master and Margarita - Mikhail Bulgakov*
 
 - The Stranger - Albert Camus
 
