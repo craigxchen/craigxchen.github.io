@@ -6,7 +6,7 @@ permalink: /coffeeopinions/
 
 ### Currently brewing: 
 
-Random coffees from Black & White Coffee Roasters; everything they have is good. Also the Columbian decaf that Sey carries. Brandywine's co-ferments are great too.
+Random coffees from Black & White Coffee Roasters; everything they have is good. Also the Columbian decaf that Sey carries. Brandywine's co-ferments are great too. I've recently discovered Mod Cup Coffee and Hex Coffee, both of which I love.
 
 ### What is specialty coffee?
 

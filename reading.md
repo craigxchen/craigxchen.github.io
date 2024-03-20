@@ -7,11 +7,14 @@ permalink: /reading/
 A list of books I've read, from 2018 onwards.
 
 ### Currently reading:
-Chess Story - Stefan Zweig
+Demian - Herman Hesse
 
 ### Prior reads: (commentary coming soon!)
 **Italicized items are recommended**
 <BR>
+
+- Chess Story - Stefan Zweig
+
 - The Road - Cormac McCarthy
 
 - Plainwater - Anne Carson

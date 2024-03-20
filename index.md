@@ -1,13 +1,11 @@
 ---
 layout: page
-title: Welcome to my homepage!
+title: Hello
 ---
 
-I first made this website because I needed a homepage to submit a research paper to journals, but now I use this as a place to store thoughts.
+I first made this website because I needed a homepage to submit a research paper to journals, but it's become a closet of sorts these days.
 
-My background consists of a lot of academic research, previously in molecular biology and recently in mathematics. I'm also influenced by a childhood of gaming and dreams of being a musician. My newest fixation is woodworking and before that came specialty coffee (which stuck around). 
-
-Please reach out if you want to talk about anything!
+My background consists of a lot of academic research, originally in molecular biology and later in mathematics. I'm influenced by a childhood of gaming and concert-pianist-dreams. My newest fixation is woodworking and before that came specialty coffee (which stuck around). 
 
 <!--- two columns with headshot
 <div class="row">
