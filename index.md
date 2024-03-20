@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Hello
 ---
 
 I first made this website because I needed a homepage to submit a research paper to journals, but it's become a closet of sorts these days.
