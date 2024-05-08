@@ -7,11 +7,14 @@ permalink: /reading/
 A list of books I've read, from 2018 onwards.
 
 ### Currently reading:
-Demian - Herman Hesse
+Fronteras de lo Real - Andrea Kottow
 
 ### Prior reads: (commentary coming soon!)
 **Italicized items are recommended**
 <BR>
+- *Limitarianism - Ingrid Robeyns*
+
+- *Demian - Herman Hesse*
 
 - Chess Story - Stefan Zweig
 
