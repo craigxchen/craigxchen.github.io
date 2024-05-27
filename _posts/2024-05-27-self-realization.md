@@ -13,7 +13,7 @@ And so in order to protect myself from rolling down the hill I constructed a bar
 
 For months I lie there wondering who built this wall that makes it so hard to see the sun?
 
-![Abraxas](/assets/images/abraxas.png)
+![Abraxas](/assets/images/abraxas.jpeg)
 
 You can not stand up to see the sun without letting go of the sculpture you have so delicately balanced atop the hill. When the boulder crashes down the hillside do you try to push it up the hill again? Or do you take a step towards the mountain in the distance - mirage or not?
 
