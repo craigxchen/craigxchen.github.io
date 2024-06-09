@@ -7,11 +7,15 @@ permalink: /reading/
 A list of books I've read, from 2018 onwards.
 
 ### Currently reading:
-Fronteras de lo Real - Andrea Kottow
+Piranesi - Susanna Clarke
 
 ### Prior reads: (commentary coming soon!)
 **Italicized items are recommended**
 <BR>
+- Billy Summers - Stephen King
+
+- Fronteras de lo Real - Andrea Kottow
+
 - *Limitarianism - Ingrid Robeyns*
 
 - *Demian - Herman Hesse*
