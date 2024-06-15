@@ -7,11 +7,13 @@ permalink: /reading/
 A list of books I've read, from 2018 onwards.
 
 ### Currently reading:
-Piranesi - Susanna Clarke
+Demons - Fyodor Dostoevsky
 
 ### Prior reads: (commentary coming soon!)
 **Italicized items are recommended**
 <BR>
+- Piranesi - Susanna Clarke
+
 - Billy Summers - Stephen King
 
 - Fronteras de lo Real - Andrea Kottow
