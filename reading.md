@@ -8,11 +8,12 @@ A list of books I've read, from 2018 onwards.
 
 ### Currently reading:
 Demons - Fyodor Dostoevsky
+The Line of Beauty - Alan Hollinghurst
 
 ### Prior reads: (commentary coming soon!)
 **Italicized items are recommended**
 <BR>
-- Piranesi - Susanna Clarke
+- *Piranesi - Susanna Clarke*
 
 - Billy Summers - Stephen King
 
