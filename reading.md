@@ -7,11 +7,15 @@ permalink: /reading/
 A list of books I've read, from 2018 onwards.
 
 ### Currently reading:
-Demons - Fyodor Dostoevsky
+Whale - Cheon Myeong-kwan
 
 ### Prior reads: (commentary coming soon!)
 **Italicized items are recommended**
 <BR>
+- Demons - Fyodor Dostoevsky
+
+- *The Sirens of Titan - Kurt Vonnegut*
+
 - *Thunderclap - Laura Cumming*
 
 - *The Line of Beauty - Alan Hollinghurst*
