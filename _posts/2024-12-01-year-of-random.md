@@ -16,7 +16,7 @@ Does the luck come back when I rebind it to my wrist, or do its warding effects 
 At the beginning of this year I decided I will no longer allow fear to influence my decisions and I pasted a reminder on my door.
 This bracelet too functions as a reminder.
 
-### ... FOR THERE IS NO ONE BUT YOURSELF ...
+### ... for there is no one but yourself ...
 
 
 I am still not accustomed to just how lonely it is to return to an empty home. 
@@ -43,7 +43,7 @@ I find it quite comfortable though.
 
 How much living have I done amidst all this...thinking? 
 
-### THOUGH YOU ARE NEVER ALONE
+### though you are never alone
 
 
 It was a Sunday in the middle of the summer. 
