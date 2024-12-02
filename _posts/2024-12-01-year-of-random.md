@@ -6,7 +6,7 @@ title: Year of the Random.org True Random Number Generator
 This year is my second zodiac year so I've been wearing a red bracelet for the past eleven months. 
 My mother told me it's for good luck and my friends told me it's to ward off evil.
 
-![DO NOT BE AFRAID](/assets/images/donotbeafraid.jpg)
+![DO NOT BE AFRAID](/assets/images/donotbeafraid.jpg){:width="80%"}
 
 I still find this bracelet uncomfortable to wear.
 The gold-plated clip has rubbed silver from sliding across my desk and the dragons head has fabric caught in its teeth from the multiple sweaters it's chunked.
