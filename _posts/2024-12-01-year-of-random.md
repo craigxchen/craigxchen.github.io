@@ -76,6 +76,6 @@ He's busy fiddling with his film camera.
 This Sunday ended like any other.
 I make my way down the steps on the corner of Charles and Hudson stepping over a puddle of water that's decided it'll stay for the summer.
 Every summer I worry the restaurant won't make it to the end of the year; no one wants ramen in the summer.
-I lift the bowl towards the ceiling praise jesus hallelujah as I finish the rest of the broth.
+I lift the bowl towards the ceiling in prayer as I finish the rest of the broth.
 I tip generously and wave to Ed on my way out.
 Someday I'll ask him to tell me his story, how he made his way to New York and how he makes the best ramen in the city.
