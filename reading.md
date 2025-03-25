@@ -7,11 +7,21 @@ permalink: /reading/
 A list of books I've read, from 2018 onwards.
 
 ### Currently reading:
-Whale - Cheon Myeong-kwan
+Ficciones - Jorge Luis Borges
 
 ### Prior reads: (commentary coming soon!)
 **Italicized items are recommended**
 <BR>
+- A Thousand Years of Good Prayers - Yiyun Li
+
+- *Steppenwolf - Herman Hesse*
+
+- Intermezzo - Sally Rooney
+
+- *I Who Have Never Known Men - Jacqueline Harpman*
+
+- *Whale - Cheon Myeong-kwan*
+
 - Demons - Fyodor Dostoevsky
 
 - *The Sirens of Titan - Kurt Vonnegut*
