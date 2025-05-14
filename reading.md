@@ -7,11 +7,15 @@ permalink: /reading/
 A list of books I've read, from 2018 onwards.
 
 ### Currently reading:
-Ficciones - Jorge Luis Borges
+Crime and Punishment - Fyodor Dostoevsky
 
 ### Prior reads: (commentary coming soon!)
 **Italicized items are recommended**
 <BR>
+- Colorless Tsukuru Tazaki and His Years of Pilgrimage - Haruki Murakami
+
+- Ficciones - Jorge Luis Borges
+
 - A Thousand Years of Good Prayers - Yiyun Li
 
 - *Steppenwolf - Herman Hesse*
