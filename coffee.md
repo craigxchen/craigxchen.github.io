@@ -6,7 +6,7 @@ permalink: /coffeeopinions/
 
 ### Currently brewing: 
 
-Random coffees from Black & White Coffee Roasters; everything they have is good. Also the Columbian decaf that Sey carries. Brandywine's co-ferments are great too. I've recently discovered Mod Cup Coffee and Hex Coffee, both of which I love.
+Random coffees from Black & White Coffee Roasters, though I think they're less consistent than before. I quite like DAK Coffee Roasters. Driftaway has some nice coffees in their Rising Tide collection.
 
 ### What is specialty coffee?
 

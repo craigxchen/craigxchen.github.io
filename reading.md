@@ -7,11 +7,14 @@ permalink: /reading/
 A list of books I've read, from 2018 onwards.
 
 ### Currently reading:
-Crime and Punishment - Fyodor Dostoevsky
+The Gilded Age - Mark Twain
 
 ### Prior reads: (commentary coming soon!)
 **Italicized items are recommended**
 <BR>
+
+- *Crime and Punishment - Fyodor Dostoevsky*
+
 - Colorless Tsukuru Tazaki and His Years of Pilgrimage - Haruki Murakami
 
 - Ficciones - Jorge Luis Borges
