@@ -31,8 +31,7 @@ I refresh, I press the button again, I ask myself verbally and no passers-by loo
 Maybe I've pressed the button so many times so compulsively that I've overloaded the internal workings of the Bureau that it's just all gone up in flames.
 
 
-![into the water](/assets/images/river.gif)
-
+![into the water](https://github.com/craigxchen/craigxchen.github.io/blob/main/assets/images/river.gif)
 
 For all of this proximity, I've spent little time in the water.
 The cold momentary sting when dipping into the pool always sends a shiver through my body.
@@ -61,4 +60,6 @@ Turning around it's clear that what remains is a Stavrogin.
 It's thundering now and I'm afraid.
 I think of that time it was snowing in Montana.
 When you have nothing left, the music of the water will continue to sound, inviting you into its depths.
+
+
 
