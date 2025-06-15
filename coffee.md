@@ -6,7 +6,7 @@ permalink: /coffeeopinions/
 
 ### Currently brewing: 
 
-Random coffees from Black & White Coffee Roasters, though I think they're less consistent than before. I quite like DAK Coffee Roasters. Driftaway has some nice coffees in their Rising Tide collection.
+Random coffees from Black & White Coffee Roasters, though I think they're less consistent than before. I quite like DAK Coffee Roasters. Driftaway and Hydrangea are my current favorites.
 
 ### What is specialty coffee?
 

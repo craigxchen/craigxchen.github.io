@@ -8,4 +8,15 @@ layout: default
     <p class="fs-4 text-muted">{{ page.date | date: "%b %d, %Y" }}</p>
   </header>
   <div class="mt-5">{{ content }}</div>
+  <div class="subscribe-form" style="margin-top: 2em; padding-top: 1em; border-top: 1px solid #ddd;">
+    <p>Subscribe to get notified about new posts:</p>
+
+    <form action="https://buttondown.email/api/emails/embed-subscribe/craigxchen" method="post" target="popupwindow"
+      onsubmit="window.open('https://buttondown.email/craigxchen', 'popupwindow', 'scrollbars=yes,width=800,height=600'); return true"
+      class="embeddable-buttondown-form">
+
+      <input type="email" name="email" id="bd-email" placeholder="Your email address" required style="padding: 0.5em; margin-right: 0.5em;">
+      <input type="submit" value="Subscribe" style="padding: 0.5em 1em;">
+    </form>
+  </div>
 </div>
