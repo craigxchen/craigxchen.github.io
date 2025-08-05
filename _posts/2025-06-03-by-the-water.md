@@ -30,7 +30,10 @@ And that's the loop.
 I refresh, I press the button again, I ask myself verbally and no passers-by look my way as I talk to myself along the Hudson.
 Maybe I've pressed the button so many times so compulsively that I've overloaded the internal workings of the Bureau that it's just all gone up in flames.
 
-![river]({{ site.baseurl }}/assets/images/river.gif)
+<video style="width: 100%; height: auto" muted loop autoplay>
+    <source src="{{ site.baseurl }}/assets/images/river.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
 
 For all of this proximity, I've spent little time in the water.
 The cold momentary sting when dipping into the pool always sends a shiver through my body.
