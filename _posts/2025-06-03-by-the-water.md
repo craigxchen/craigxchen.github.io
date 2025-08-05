@@ -19,7 +19,7 @@ Rising out of bed I open my eyes to boats drifting along the Hudson and the radi
 The river looks quite choppy outside.
 Perhaps I should pack a jacket for the wind today.
 I stand holding the kettle in my right hand, motionless, observing the trees and the surface of the water through the window, debating whether to make pourover coffee or an espresso.
-I often think, while dissociating by the coffe grinder, "it's a shame the Hudson is so filthy."
+I often think, while dissociating by the coffee grinder, "it's a shame the Hudson is so filthy."
 In the afternoons when I walk home along the river I find that the sun is harsher than I remember and the breeze stronger than I remember.
 Walking by the water is my attempt to clear my mind and to observe my thoughts as they honk and curse at each other amidst the stop-and-go traffic of my mind, much more like the streets of Manhattan than the orderly chaos of southeast Asia.
 Yet, by the water, I always encounter the same thoughts.
@@ -30,7 +30,7 @@ And that's the loop.
 I refresh, I press the button again, I ask myself verbally and no passers-by look my way as I talk to myself along the Hudson.
 Maybe I've pressed the button so many times so compulsively that I've overloaded the internal workings of the Bureau that it's just all gone up in flames.
 
-<img src="/assets/images/river.gif" align="center"/>
+![river]({{ site.baseurl }}/assets/images/river.gif)
 
 For all of this proximity, I've spent little time in the water.
 The cold momentary sting when dipping into the pool always sends a shiver through my body.
