@@ -7,4 +7,4 @@ I first made this website because I needed a homepage to submit a research paper
 
 My writing is primarily for myself. I'm influenced by a childhood of gaming and a late-blooming enjoyment of mathematics. I like playing the piano, woodworking, and making coffee for friends. 
 
-I am currently obsessed with motorcycles, having recently purchased one for myself.
+I am currently obsessed with motorcycles, I ride a 2025 Ninja 500. Lately I've also been self-studying electrical engineering with the goal of understanding semiconductor chips from design to production.
