@@ -7,11 +7,17 @@ permalink: /reading/
 A list of books I've read, from 2018 onwards.
 
 ### Currently reading:
-- Pedro Paramo - Juan Rulfo
+Ada, or Ardor - Vladimir Nabokov
 
 ### Prior reads: (commentary coming soon!)
 **Italicized items are recommended**
 <BR>
+- On the Nature of Things - Lucretius
+
+- Waiting for Godot - Samuel Beckett
+
+- Pedro Paramo - Juan Rulfo
+
 - Midnight's Children - Salman Rushdie
 
 - The Gilded Age - Mark Twain
@@ -32,7 +38,7 @@ A list of books I've read, from 2018 onwards.
 
 - *Whale - Cheon Myeong-kwan*
 
-- Demons - Fyodor Dostoevsky
+- *Demons - Fyodor Dostoevsky*
 
 - *The Sirens of Titan - Kurt Vonnegut*
 
