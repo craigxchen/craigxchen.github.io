@@ -1,0 +1,118 @@
+name: Deploy Pages
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+    inputs:
+      coffee_sim_ref:
+        description: "Optional coffee-sim tag or commit to deploy instead of .coffee-sim-version."
+        required: false
+        type: string
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+env:
+  CARGO_TERM_COLOR: always
+
+jobs:
+  build:
+    name: Build site
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+
+    steps:
+      - name: Checkout site
+        uses: actions/checkout@v4
+
+      - name: Read Coffee Sim version
+        id: coffee-sim-version
+        shell: bash
+        run: |
+          ref="${{ github.event.inputs.coffee_sim_ref || '' }}"
+          if [ -z "$ref" ]; then
+            ref="$(tr -d '[:space:]' < .coffee-sim-version)"
+          fi
+          if [ -z "$ref" ]; then
+            echo "No coffee-sim ref was provided." >&2
+            exit 1
+          fi
+          echo "ref=$ref" >> "$GITHUB_OUTPUT"
+
+      - name: Checkout Coffee Sim
+        uses: actions/checkout@v4
+        with:
+          repository: craigxchen/coffee-sim
+          ref: ${{ steps.coffee-sim-version.outputs.ref }}
+          path: .coffee-sim-src
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.4"
+          bundler-cache: true
+
+      - name: Build Jekyll site
+        run: bundle exec jekyll build --destination _site
+
+      - name: Install wasm target
+        run: rustup target add wasm32-unknown-unknown
+
+      - name: Cache Coffee Sim cargo build
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.cargo/registry
+            ~/.cargo/git
+            .coffee-sim-src/target
+          key: coffee-sim-pages-${{ runner.os }}-${{ hashFiles('.coffee-sim-src/**/Cargo.lock') }}
+          restore-keys: |
+            coffee-sim-pages-${{ runner.os }}-
+
+      - name: Install wasm-pack
+        run: cargo install wasm-pack --locked
+
+      - name: Build Coffee Sim
+        working-directory: .coffee-sim-src
+        run: wasm-pack build crates/sim-wasm --target web --release --out-dir www-3d/pkg
+
+      - name: Stage Coffee Sim runtime
+        shell: bash
+        run: |
+          mkdir -p _site/coffee-sim/pkg
+          cp .coffee-sim-src/crates/sim-wasm/www-3d/index.html _site/coffee-sim/
+          cp .coffee-sim-src/crates/sim-wasm/www-3d/main.js _site/coffee-sim/
+          cp .coffee-sim-src/crates/sim-wasm/www-3d/styles.css _site/coffee-sim/
+          cp .coffee-sim-src/docs/assets/coffee-sim-center-pour.gif _site/coffee-sim/
+          cp .coffee-sim-src/crates/sim-wasm/www-3d/pkg/coffee_sim_wasm.js _site/coffee-sim/pkg/
+          cp .coffee-sim-src/crates/sim-wasm/www-3d/pkg/coffee_sim_wasm_bg.wasm _site/coffee-sim/pkg/
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    name: Deploy
+    needs: build
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4

@@ -4,6 +4,16 @@ title: Coffee
 permalink: /coffeeopinions/
 ---
 
+### Coffee Sim
+
+I built a browser-based V60 pourover simulator that runs a WebGPU MPM fluid simulation in WebAssembly.
+
+<a href="/coffee-sim/" aria-label="Open Coffee Sim full screen">
+  <img src="/coffee-sim/coffee-sim-center-pour.gif" alt="Coffee Sim center pour preview" style="width: 100%; height: auto;">
+</a>
+
+[Open Coffee Sim full screen](/coffee-sim/)
+
 ### Currently brewing: 
 
 Random coffees from Black & White Coffee Roasters, though I think they're less consistent than before. I quite like DAK Coffee Roasters. Driftaway and Hydrangea are my current favorites.

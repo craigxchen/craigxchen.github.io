@@ -5,6 +5,6 @@ title:
 
 I first made this website because I needed a homepage to submit a research paper to journals, but it's become a closet of sorts these days. 
 
-My writing is primarily for myself. I'm influenced by a childhood of gaming and a late-blooming enjoyment of mathematics. I like playing the piano, woodworking, and making coffee for friends. 
+My writing is primarily for myself. I'm influenced by a childhood of gaming and a late-blooming enjoyment of mathematics. I like playing the piano, woodworking, and making coffee for friends. I ride a motorcycle. 
 
-I am currently obsessed with motorcycles, I ride a 2025 Ninja 500. Lately I've also been self-studying electrical engineering with the goal of understanding semiconductor chips from design to production.
+Lately I've been self-studying electrical engineering and robotics. I used to work in quant finance.
