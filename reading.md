@@ -7,11 +7,17 @@ permalink: /reading/
 A list of books I've read, from 2018 onwards.
 
 ### Currently reading:
-Ada, or Ardor - Vladimir Nabokov
+Nothing!
 
-### Prior reads: (commentary coming soon!)
+### Prior reads:
 **Italicized items are recommended**
 <BR>
+- Stuff Matters - Mark Miodownik
+
+- The Waves - Virginia Woolf
+
+- *Ada, or Ardor - Vladimir Nabokov*
+
 - On the Nature of Things - Lucretius
 
 - Waiting for Godot - Samuel Beckett
