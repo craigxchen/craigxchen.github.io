@@ -7,7 +7,7 @@ permalink: /reading/
 A list of books I've read, from 2018 onwards.
 
 ### Currently reading:
-Nothing!
+The New Science of Strong Materials - J.E. Gordon
 
 ### Prior reads:
 **Italicized items are recommended**
@@ -15,6 +15,10 @@ Nothing!
 - Stuff Matters - Mark Miodownik
 
 - The Waves - Virginia Woolf
+
+- Arcadia - Tom Stoppard
+
+- Vernon Subutex - Virginia Despentes
 
 - *Ada, or Ardor - Vladimir Nabokov*
 
