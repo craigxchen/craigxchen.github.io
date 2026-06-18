@@ -1,7 +1,7 @@
 ---
 layout: page 
 title: Coffee 
-permalink: /coffeeopinions/
+permalink: /coffee/
 ---
 
 ### Coffee Sim
@@ -16,7 +16,7 @@ I built a browser-based V60 pourover simulator that runs a WebGPU MPM fluid simu
 
 ### Currently brewing: 
 
-Random coffees from Black & White Coffee Roasters, though I think they're less consistent than before. I quite like DAK Coffee Roasters. Driftaway and Hydrangea are my current favorites.
+I like Hydrangea's co-ferments and I'm currently subscribed to Airwork's monthly bag. My favorite roasters right now are DAK, Hydrangea, and Driftaway.
 
 ### What is specialty coffee?
 
