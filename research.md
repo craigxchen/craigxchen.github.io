@@ -4,11 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-### Current Projects:
-
-Starting to read about a [friend's](https://yujinhkim.github.io/) work on Branching Brownian Motion. Planning to animate some of the objects of study using Manim.
-
-### Previous Projects:
+### Areas of Interest:
 
 **Bressan's conjecture on mixing flows:**
 Consider the unit square in $$\mathbb{R}^2$$ with periodic boundary conditions (i.e., the torus) divided down the middle
@@ -28,20 +24,6 @@ the $$p=1$$ case. Alongside the conjecture, Bressan also constructed an example 
 numerical approaches to this problem (e.g., machine learning) to develop our intuition as to whether or not his
 construction is optimal. I'm working on this project with Professor Tarek M. Elgindi. Fall 2021 independent study report
 available [here]({{ site.url }}/assets/Mixing_CraigChen.pdf).
-
-**Learning linear dynamical systems with memory:**
-Consider a dynamical system with hidden state $$h_t$$, observable $$y_t$$, and control input $$u_t$$ following the dynamics
-
-$$\begin{align*}
-    h_{t+1} &= Ah_t + Bu_t \\
-    y_t &= Ch_t + Du_t.
-\end{align*}$$
-
-It is known that gradient descent can learn this system (*i.e.,* learn the parameters $$A,B,C,D$$) with polynomially 
-(in the dimension) many samples. What happens if we allow for a higher-order system which depends on $$h_t$$ through 
-$$h_{t-m}$$? It is possible to linearize this system byconcatenating all of the state vectors, but then the matrices 
-to be learned will be rather sparse and this advantage will go to waste. I am working with Professor Andrea Agazzi 
-(and some advice from Professor Jianfeng Lu) to try to prove a better sample-complexity bound for the system with memory.
 
 **Close lattice points on circles:**
 We are interested in the question of how many lattice points can lie on an arc of length $$R^\theta$$ where $$R$$ is the

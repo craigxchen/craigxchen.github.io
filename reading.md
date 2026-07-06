@@ -7,11 +7,13 @@ permalink: /reading/
 A list of books I've read, from 2018 onwards.
 
 ### Currently reading:
-Nothing!
+Zen and the Art of Motorcycle Maintenance - Robert M. Pirsig
 
 ### Prior reads:
 **Italicized items are recommended**
 <BR>
+- The New Science of Strong Materials - J.E. Gordon
+
 - Stuff Matters - Mark Miodownik
 
 - The Waves - Virginia Woolf
